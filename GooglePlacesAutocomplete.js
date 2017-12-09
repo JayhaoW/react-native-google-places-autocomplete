@@ -208,7 +208,7 @@ export default class GooglePlacesAutocomplete extends Component {
         this._disableRowLoaders();
         alert(error.message);
       },
-      options
+      //options
     );
   }
 
